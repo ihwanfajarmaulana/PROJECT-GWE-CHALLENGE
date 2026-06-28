@@ -6,11 +6,9 @@ Proyek dikembangkan untuk **GWE 2026 Data Science Challenge** dengan subtema **E
 
 ## Tautan Proyek
 
-- **Aplikasi Streamlit:** [Tambahkan tautan deployment](TAUTAN_STREAMLIT)
-- **Repository GitHub:** [Tambahkan tautan repository](TAUTAN_GITHUB)
-- **Sumber dataset:** [Tambahkan tautan sumber dataset](TAUTAN_DATASET)
-
-> Ganti seluruh placeholder tautan sebelum repository dikumpulkan.
+- **Aplikasi Streamlit:** [https://student-burnout-whatif.streamlit.app/](TAUTAN_STREAMLIT)
+- **Repository GitHub:** [https://github.com/ihwanfajarmaulana/PROJECT-GWE-CHALLENGE](TAUTAN_GITHUB)
+- **Sumber dataset:** [https://www.kaggle.com/datasets/laveshjadon/ai-impact-on-students](TAUTAN_DATASET)
 
 ## Identitas Tim
 
